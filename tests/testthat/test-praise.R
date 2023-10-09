@@ -5,4 +5,3 @@ test_that("test praise works", {
                    glue::glue("You're the best, Thomas;"))
   expect_error(praise())
 }) #wow
-
