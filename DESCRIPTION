@@ -15,3 +15,5 @@ Imports:
     glue
 Suggests:
     testthat (>= 3.0.0)
+URL: https://github.com/Madisonjwlee/praiseme
+BugReports: https://github.com/Madisonjwlee/praiseme/issues
